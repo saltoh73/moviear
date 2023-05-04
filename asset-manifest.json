@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/moviear/static/css/main.796a0a22.css",
+    "main.js": "/moviear/static/js/main.e8b2ef25.js",
+    "static/js/787.e679a4b0.chunk.js": "/moviear/static/js/787.e679a4b0.chunk.js",
+    "static/media/logo (1).png": "/moviear/static/media/logo (1).800ff118d3628e8c8f7f.png",
+    "index.html": "/moviear/index.html",
+    "main.796a0a22.css.map": "/moviear/static/css/main.796a0a22.css.map",
+    "main.e8b2ef25.js.map": "/moviear/static/js/main.e8b2ef25.js.map",
+    "787.e679a4b0.chunk.js.map": "/moviear/static/js/787.e679a4b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.796a0a22.css",
+    "static/js/main.e8b2ef25.js"
+  ]
+}
